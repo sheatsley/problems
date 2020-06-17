@@ -1,4 +1,4 @@
-# Algorithms & Datastructures
+# Algorithms & Data Structures
 
 This repo contains solutions to canonical algorithms problems in computer
 science. It serves as practice for myself to reinforce concepts learned in the
